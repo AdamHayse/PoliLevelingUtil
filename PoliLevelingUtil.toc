@@ -1,0 +1,7 @@
+## Interface: 90002
+## Author: Polihayse
+## Title: Poli Leveling Util
+## Notes: Record leveling sessions and export data in saved variable
+## SavedVariables: QuestDataJson, LevelingSessionInProgress
+libs\HeroLib_json.lua
+PoliLevelingUtil.lua
